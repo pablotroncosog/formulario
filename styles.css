@@ -1,0 +1,125 @@
+body {
+    WIDTH: 50%;
+    MARGIN: auto;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+form {
+    display: block;
+
+}
+.container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+
+}
+input {
+    margin: 10px;
+} 
+.columna1 {
+    width: 50%;
+}
+
+#cosito {
+    margin: 25px;
+    margin-bottom: 60px;
+}
+.c2 { 
+    margin: 25px;
+
+} 
+form {
+    margin: 20px;
+    width: 50%;
+}
+.Suffix
+{
+    width: 20%;
+} 
+.Identification {
+    width: 30px;
+    
+}
+
+.Identification4
+{    width: 30px; 
+    margin-left: 1px;
+    margin-right: 1px;}
+
+
+.Identification2 {
+    width: 60%;
+    margin-right: 5px; 
+} 
+.Identification3 {
+    width: 60%;
+    margin-right: 5px; 
+}
+
+#contenedor4{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 350px;
+}
+#contenedor5 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 80%;
+} 
+
+.st {
+    margin: 0%;
+    margin-left: 10px;
+}
+#contenedor7 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 350px;
+}
+.largo2 {
+    width: 50%;
+    margin-top: 10px;
+}
+
+#contenedor10 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 80%;
+}
+#contenedor9 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 350px;
+}
+
+#final
+{
+    margin: auto;
+    width: 40%;
+    margin-left: 0px;
+}
+.xd2 {
+    margin: auto;
+}
+#bug {
+    width: 70px;
+ 
+}
+
+.div1 {
+    width: 80px;
+    margin: 2px;
+} 
+
+#final2 {
+    width: 80%;
+    margin: auto;
+}
